@@ -1,3 +1,5 @@
+Today is Wednesday
+
 Hello David
 Congratulations on Learning Git
 Thank you Rhonda for teaching me about this class
